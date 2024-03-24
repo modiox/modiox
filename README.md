@@ -2,7 +2,7 @@
 
 ###
 
-- 🔭 I’m currently immersing myself in a C# full-stack development with Integrify...
+- 🔭 I’m currently immersing myself in a C# Full-Stack Development program with Integrify x SDA...
 - 🌱 I’m currently learning React, C#, ASP.NET, and seeking AWS certification
 - 🤓 I've a Bachelor's degree in CS and a Master's degree in Computer Networks
 - 👯 I’m looking to collaborate on various projects to deepen my skills!
