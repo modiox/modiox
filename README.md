@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently immersing myself in a C# full-stack development with Integrify...
 - 🌱 I’m currently learning React, C#, ASP.NET.. and much more :)
-- 🤓 I have a Bachelor's degree in CS and Master's  degree in Computer Networks
+- 🤓 I've a Bachelor's degree in CS and a Master's degree in Computer Networks
 - 👯 I’m looking to collaborate on various projects to deepen my skills!
-- 💻 I am interested in Web Development, IoT, Databases and AWS 🥇 
+- 💻 I'm interested in Web Development, IoT, Databases and AWS 🥇 
 - 📫 How to reach me: [moodyalyalak@gmail.com](mailto:moodyalyalak@gmail.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am an athlete, and I love cats ;) 
