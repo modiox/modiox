@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Modi Alyalak, and I'm an aspiring full-stack developer, from Saudi Arabia. Nice To meet you! </h2>
+<h2 align="left">Hi 👋! My name is Modi Alyalak, and I'm an aspiring full-stack developer, from Saudi Arabia. </h2>
 
 ###
 
