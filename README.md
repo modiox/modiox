@@ -9,7 +9,7 @@
 - 💻 I'm interested in Web Development, IoT, Databases and AWS 🥇 
 - 📫 How to reach me: [moodyalyalak@gmail.com](mailto:moodyalyalak@gmail.com)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am an athlete, and I love cats ;)
+- ⚡ Fun fact: I am an athlete. I love cats and pretty sunsets :3 
 - P.S my web development projects and GitHub are still a work in progress...⭕️
 
 <div align="center">
