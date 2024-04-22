@@ -46,6 +46,7 @@
  
 </div>
 
+![Snake Animation](https://raw.githubusercontent.com/modiox/modiox/main/github-snake.svg)
 
 
 
