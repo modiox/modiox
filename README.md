@@ -1,5 +1,5 @@
 <h1 align="left">Hi there! 👋 </h1>
-<h2> My name is Modi Alyalak, and I'm an aspiring full-stack developer from Saudi Arabia. </h2>
+<h2> My name is Modi. I'm an aspiring full-stack developer from Saudi Arabia. </h2>
 
 ###
 
