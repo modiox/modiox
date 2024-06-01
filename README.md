@@ -1,9 +1,8 @@
 <h1 align="left">Hi there! 👋 </h1>
-<h2> My name is Modi. I'm an aspiring full-stack developer from Saudi Arabia. </h2>
+<h2>I'm an aspiring full-stack developer </h2>
 
 ###
 
-- 🔭 I’m currently immersing myself in a C# Full-Stack Development program with Integrify x SDA...
 - 🌱 I’m currently learning React, C#, ASP.NET, and seeking AWS certification
 - 🤓 I've a Bachelor's degree in CS and a Master's degree in Computer Networks
 - 👯 I’m looking to collaborate on various projects to deepen my skills
