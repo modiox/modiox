@@ -7,7 +7,7 @@
 - 🤓 I've a Bachelor's degree in CS and a Master's degree in Computer Networks
 - 👯 I’m looking to collaborate on various projects to deepen my skills
 - 💻 I'm interested in Web Development, IoT, Databases and AWS 🥇 
-- 📫 How to reach me: [moodyalyalak@gmail.com](mailto:moodyalyalak@gmail.com)
+- 📫 How to reach me: [moodyalyalak@gmail.com](mailto:modi.alyalak@gmail.com)
 - 😄 Pronouns: she/her
 - P.S My web development projects and GitHub are still a work in progress...⭕️
 
